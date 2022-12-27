@@ -1,5 +1,5 @@
 #include <stdio.h>
-//矩陣數字顯示
+//矩陣數字顯示https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30746
 int main(){
     int one[5][5] = {0};
     one[0][4] = 1;
